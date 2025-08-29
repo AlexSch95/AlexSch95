@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Timezone Translator<br>🌱 I’m currently learning: HTML/CSS/JavaScript<br>🍍 Fun fact: console.log(('a' + + 'a' + 'a' + 's').toLowerCase())
+🔭 I’m currently working on: Private Screenshot Cloud with ShareX Support<br>🌱 I’m currently learning: HTML/CSS/JavaScript<br>🍍 Fun fact: console.log(('a' + + 'a' + 'a' + 's').toLowerCase())
 
 
 # 💻 Tech Stack:
