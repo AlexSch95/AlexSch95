@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋! My name is Alex and I'm a Developer, from Germany.</h2>
+<h2 align="left">Hi 👋! My name is Alex and I'm a Developer, from Germany</h2>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexSch95&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexSch95&theme=tokyo-night" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlexSch95&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexSch95&theme=tokyo-night&hide_border=true&hide_title=true&area=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
